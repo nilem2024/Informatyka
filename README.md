@@ -10,7 +10,7 @@ To repozytorium zawiera moje rozwiązania zadań z informatyki. Każde zadanie z
 - Pliki są nazwane zgodnie z ich funkcją.  
 
 ## Autor  
-Imię i nazwisko: **Artem Kachenko**  
+**Artem Kachenko**  
 
 ## Aktualizacje  
 Kod będzie regularnie aktualizowany.  
